@@ -1,5 +1,4 @@
-# Customer-Clustering-internsavy-
-# Customer Clustering Data Science Project
+# Customer-Clustering-internsavy
 
 ## Overview
 
